@@ -22,10 +22,14 @@ body {
 
 .calculator-grid button {
     cursor: pointer;
+    color: black;
     font-size: 35px;
     border: 1px solid white;
     outline: none;
     background-color: rgba(225, 225, 225, .75);
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .calculator-grid button:hover {
