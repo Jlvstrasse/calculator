@@ -22,7 +22,6 @@ body {
 
 .calculator-grid button {
     cursor: pointer;
-    color: black;
     font-size: 35px;
     border: 1px solid white;
     outline: none;
